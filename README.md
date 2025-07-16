@@ -80,4 +80,4 @@
 
 ---
 
-> “Code with purpose. Build with passion. Grow every day.” – *Tamil Vaani*
+> “Code with purpose. Build with passion. Grow every day.” – *Tamil Vaani D R*
