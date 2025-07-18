@@ -18,13 +18,14 @@
   <a href="https://www.linkedin.com/in/tamilvaanidr/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:drtamilvaani2006@gmail.com">
+  <a href="mailto:drtamilvaani2006@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/u/DR_Tamil_vaani/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 
 ---
 
