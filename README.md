@@ -5,10 +5,10 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm a Computer Science student with a strong interest in learning **emerging technologies**.
-- 🌐 Passionate about **Full-Stack Development** and **Cloud Computing**.
-- 💡 Always eager to solve problems and contribute to **innovative, real-world projects**.
-- 🚀 Exploring ways to create **impactful solutions** with modern tools and clean code.
+- 🎓 I'm a Computer Science student with a strong interest in learning **emerging technologies**.  
+- 🌐 Passionate about **Full-Stack Development** and exploring **DevOps as a learner**.  
+- 💡 Always eager to solve problems and contribute to **innovative, real-world projects**.  
+- 🚀 Exploring ways to create **impactful solutions** with modern tools and clean code.  
 
 ---
 
